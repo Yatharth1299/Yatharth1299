@@ -23,7 +23,7 @@
 <!-- My contacts -->
 <h2>🤝 Connect with me:</h2>
 <p align="center">
-<a href="tel:+91 7017313154" target="_blank">📱</a> | 
+<a href="tel:+91 7017313154" target="_blank">📱 +917017313154</a> | 
 </p>
 
 <!-- My Social Links -->
