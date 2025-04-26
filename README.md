@@ -7,16 +7,16 @@
 
 <!-- My Info -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder" alt="My Info" height="60px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+GEN+AI+ENGINEER;and+Competitive+Coder" alt="My Info" height="60px"/>
 </p>
 
 
 <!-- About Me -->
 ## 👨‍💻 Know Me:
 
-* 🏫 &nbsp;I'm a B.Tech CSE student at [Meerut Institute Of Engineering & Technology](https://www.miet.ac.in/home).
+* 🏫 &nbsp;I'm a B.Tech CSE'2022 student at [Meerut Institute Of Engineering & Technology](https://www.miet.ac.in/home).
 * 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can...
-* 👨‍💻 &nbsp;I’m currently learning Backend Development  to become a Full Stack Web Developer.
+* 👨‍💻 &nbsp;I’m currently learning AI TOOLS  to become a GEN AI ENGINEER.
 * 🌱 &nbsp;Practicing Data Structures and Algorithm.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 
