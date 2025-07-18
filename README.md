@@ -7,7 +7,7 @@
 
 <!-- My Info -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+GEN+AI+ENGINEER;and+Competitive+Coder" alt="My Info" height="60px"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=I'm+AI+ML+LongLifeLearner;and+Competitive+Coder" alt="My Info" height="60px"/>
 </p>
 
 
