@@ -45,7 +45,7 @@
 
 | `Frontend`       | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>  |
 
-| `Backend`     | <img src="https://img.shields.io/badge/FastAPI-blue.svg?style=for-the-badge&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-yellow.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/PostmanAPI-hotpink.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RESTAPI-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/API-Documantion-%23563D7C.svg?style=for-the-badge&logoColor=white"/> |
+| `Backend`     | <img src="https://img.shields.io/badge/FastAPI-blue.svg?style=for-the-badge&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-yellow.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/PostmanAPI-hotpink.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/RESTAPI-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/API-Documantion-%23563D7C.svg?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-%23ED8B00?style=for-the-badge&logoColor=white"/>  <img src="https://img.shields.io/badge/MediaPipe-5D1A60?style=for-the-badge&logoColor=white"/>|
 
 
 
